@@ -460,8 +460,14 @@ export default {
           "dlj.tf": "https://dlj.tf/short",
           "suo.yt": "https://suo.yt/short",
           "sub.cm": "https://sub.cm/short",
+          
         },
         customBackend: {
+          "大象自用后端":"https://sub.dxdyzh.tk/sub?",
+          "fly转换":"https://suc.flycnb.tk/sub?",
+          
+          "✨𝓛𝔂🌱自用后端":"https://vv1.cs99.repl.co/sub?",
+          
           "本机后端": "http://127.0.0.1:25500/sub?",
           "肥羊增强型后端【vless+负载均衡】": "https://api.v1.mk/sub?",
           "肥羊备用后端【vless+负载均衡】": "https://sub.d1.mk/sub?",
@@ -470,9 +476,15 @@ export default {
           "nameless13提供": "https://www.nameless13.com/sub?",
           "subconverter作者提供": "https://sub.xeton.dev/sub?",
           "sub-web作者提供": "https://api.wcc.best/sub?",
-          "sub作者&lhie1提供": "https://api.dler.io/sub?",                  
+          "sub作者&lhie1提供": "https://api.dler.io/sub?",
+           
         },
         backendOptions: [
+          {value: "https://sub.dxdyzh.tk/sub?"},
+          {value: "https://suc.flycnb.tk/sub?"},
+         
+          {value: "https://vv1.cs99.repl.co/sub?"},
+          
           {value: "http://127.0.0.1:25500/sub?"},
           {value: "https://api.v1.mk/sub?"},
           {value: "https://sub.d1.mk/sub?"},
@@ -481,7 +493,8 @@ export default {
           {value: "https://www.nameless13.com/sub?"},
           {value: "https://sub.xeton.dev/sub?"},
           {value: "https://api.wcc.best/sub?"},
-          {value: "https://api.dler.io/sub?"},               
+          {value: "https://api.dler.io/sub?"},     
+          
         ],
         remoteConfig: [
           {
